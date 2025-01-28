@@ -6,11 +6,6 @@ description: this is what Andre has in his bag
 tags: Manus et Machina
 categories: random-posts
 thumbnail: assets/img/whatsinbag.png
-images:
-  lightbox2: true
-  photoswipe: true
-  spotlight: true
-  venobox: true
 ---
 <div class="row mt-3">
     <div class="col-12">
@@ -21,7 +16,7 @@ images:
 <div class="row mt-3">
     <div class="col-12">
         <h3>What's in My Bag</h3>
-        <ul>
+        <ol>
             <li>Anker Earbud, haven't bothered to invest in airpods since I always lose these</li>
             <li>Wallet, simple fossil one. bought with my parents</li>
             <li>Iphone, given by a friend. upgrading soon</li>
