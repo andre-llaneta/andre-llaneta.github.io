@@ -12,12 +12,9 @@ images:
   spotlight: true
   venobox: true
 ---
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="assets/img/whatsinbag.png"
-    data-pswp-width="1200"
-    data-pswp-height="800"
-    target="_blank">
-    <img src="assets/img/whatsinbag.png" alt="What's in the bag" />
-  </a>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/whatsinbag.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 
