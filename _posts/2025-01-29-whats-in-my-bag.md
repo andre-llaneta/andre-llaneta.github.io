@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What's in Andre's Bag?
-date: 2024-01-29
-description: this is what Andre has in his bag
-tags: Manus et Machina
-categories: random-posts
+date: 2025-01-29
+description: Discover what Andre hides in his bag
+tags: ManusEtMachina
+categories: manus-et-machine
 thumbnail: assets/img/whatsinbag.png
 ---
 <div class="row mt-3">
