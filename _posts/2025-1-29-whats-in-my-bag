@@ -12,10 +12,7 @@ images:
   spotlight: true
   venobox: true
 ---
-
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="assets/img/your-image-large.jpg" data-lightbox="roadtrip">
-  <img src="assets/img/your-image-thumbnail.jpg" />
+<a href="assets/img/whatsinbag.png" data-lightbox="roadtrip">
+  <img src="assets/img/whatsinbag.png" />
 </a>
 
