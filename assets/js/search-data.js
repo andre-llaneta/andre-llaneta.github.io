@@ -145,6 +145,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/pseudocode/";
         
       },
+    },{id: "post-what-39-s-in-andre-39-s-bag",
+      
+        title: "What&#39;s in Andre&#39;s Bag?",
+      
+      description: "this is what Andre has in his bag",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/whats-in-my-bag/";
+        
+      },
     },{id: "post-a-post-with-code-diff",
       
         title: "a post with code diff",
