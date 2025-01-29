@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's in Andre's Bag?
-date: 2025-01-29
+date: 2025-01-27
 description: Discover what Andre hides in his bag
 tags: ManusEtMachina
 categories: manus-et-machine
