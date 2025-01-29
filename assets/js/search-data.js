@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-what-39-s-in-andre-39-s-bag",
+      
+        title: "What&#39;s in Andre&#39;s Bag?",
+      
+      description: "Discover what Andre hides in his bag",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/whats-in-my-bag/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
