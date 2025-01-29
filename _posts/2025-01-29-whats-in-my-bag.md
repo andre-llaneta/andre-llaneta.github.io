@@ -34,6 +34,6 @@ thumbnail: assets/img/whatsinbag.png
             <li>Cheap Power Bank since I always lose these</li>
             <li>Tide Pen, good for random stains I get throughout the day</li>
             <li>Levis Bag, has a strap on the back that mounts the bag to the luggage handle. is amazing and something I never knew I needed</li>
-        </ul>
+        </ol>
     </div>
 </div>
