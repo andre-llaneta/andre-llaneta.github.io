@@ -6,6 +6,9 @@ description: A visual documentation of the connectiosn made in Episode 4
 tags: ManusEtMachina
 categories: manus-et-machine
 thumbnail: assets/img/punchcard.jpg
+images:
+  compare: true
+  slider: true
 ---
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/wheel.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
