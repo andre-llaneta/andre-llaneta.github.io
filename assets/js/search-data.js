@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-what-39-s-in-andre-39-s-bag",
+            },{id: "post-bbc-connections-ep4",
+      
+        title: "BBC Connections EP4",
+      
+      description: "A visual documentation of the connectiosn made in Episode 4",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/BBC-Connections-EP4/";
+        
+      },
+    },{id: "post-what-39-s-in-andre-39-s-bag",
       
         title: "What&#39;s in Andre&#39;s Bag?",
       
