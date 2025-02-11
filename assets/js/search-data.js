@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-bbc-connections-ep4",
+            },{id: "post-waltzing-to-twerking-the-history-of-scandalous-dance",
+      
+        title: "Waltzing to Twerking, the History of Scandalous Dance",
+      
+      description: "My amazing breakdown of the podcast episode by the Pessimists Archive - Every New Dance Used To Be Scandalous",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Waltzing-to-Twerking/";
+        
+      },
+    },{id: "post-bbc-connections-ep4",
       
         title: "BBC Connections EP4",
       
