@@ -5,11 +5,11 @@ date: 2025-02-11
 description: My amazing breakdown of the podcast episode by the Pessimists Archive - Every New Dance Used To Be Scandalous
 tags: ManusEtMachina
 categories: manus-et-machine
-thumbnail: assets/img/waltz.png
+thumbnail: assets/img/waltz2.png
 ---
 <div class="row mt-3">
     <div class="col-12">
-        {% include figure.liquid loading="eager" path="assets/img/thorton.jpg" class="img-fluid rounded z-depth-1 w-100" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/thornton.jpg" class="img-fluid rounded z-depth-1 w-100" zoomable=true %}
     </div>
 </div>
 
