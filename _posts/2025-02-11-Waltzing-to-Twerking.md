@@ -13,22 +13,24 @@ images:
   venobox: true
 ---
 
+---
+
 ## [The Duel over Waltz](https://regencyfictionwriters.org/theodore-hook-forgotten-genius-epic-prankster/)
 
 The duel over the Waltz that started a movement against any "indecent" dancing amongst high socieity 19th Century London
 
 <div class="spotlight-group">
-    <a class="spotlight" href="assets/img/indiandance.jpeg">
-        <img src="assets/img/indiandance.jpeg"/>
+    <a class="spotlight" href="/assets/img/indiandance.jpeg">
+        <img src="/assets/img/indiandance.jpeg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/dancersofcolbeck.jpg">
-        <img src="assets/img/dancersofcolbeck.jpg" />
+    <a class="spotlight" href="/assets/img/dancersofcolbeck.jpg">
+        <img src="/assets/img/dancersofcolbeck.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/fertilitydance.jpg">
-        <img src="assets/img/fertilitydance.jpg"/>
+    <a class="spotlight" href="/assets/img/fertilitydance.jpg">
+        <img src="/assets/img/fertilitydance.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/waltz2.jpg">
-        <img src="assets/img/waltz2.jpg"/>
+    <a class="spotlight" href="/assets/img/waltz2.jpg">
+        <img src="/assets/img/waltz2.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
 </div>
 
@@ -39,17 +41,17 @@ The duel over the Waltz that started a movement against any "indecent" dancing a
 Historical reactions and controversies surrounding dance. Some even leading to death!
 
 <div class="spotlight-group">
-    <a class="spotlight" href="assets/img/indiandance.jpeg">
-        <img src="assets/img/indiandance.jpeg" />
+    <a class="spotlight" href="/assets/img/indiandance.jpeg">
+        <img src="/assets/img/indiandance.jpeg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/dancersofcolbeck.jpg">
-        <img src="assets/img/dancersofcolbeck.jpg"/>
+    <a class="spotlight" href="/assets/img/dancersofcolbeck.jpg">
+        <img src="/assets/img/dancersofcolbeck.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/fertilitydance.jpg">
-        <img src="assets/img/fertilitydance.jpg"  />
+    <a class="spotlight" href="/assets/img/fertilitydance.jpg">
+        <img src="/assets/img/fertilitydance.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/waltz2.jpg">
-        <img src="assets/img/waltz2.jpg"/>
+    <a class="spotlight" href="/assets/img/waltz2.jpg">
+        <img src="/assets/img/waltz2.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
 </div>
 
@@ -60,11 +62,11 @@ Historical reactions and controversies surrounding dance. Some even leading to d
 From morals to health reasons, why did people hate the waltz?
 
 <div class="spotlight-group">
-    <a class="spotlight" href="assets/img/victoriawaltz.jpg">
-        <img src="assets/img/victoriawaltz.jpg"/>
+    <a class="spotlight" href="/assets/img/victoriawaltz.jpg">
+        <img src="/assets/img/victoriawaltz.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/spinning.jpg">
-        <img src="assets/img/spinning.jpg"/>
+    <a class="spotlight" href="/assets/img/spinning.jpg">
+        <img src="/assets/img/spinning.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
 </div>
 
@@ -75,11 +77,11 @@ From morals to health reasons, why did people hate the waltz?
 Why every new dance more scandalous than the last and why we cant stop it.
 
 <div class="spotlight-group">
-    <a class="spotlight" href="assets/img/polka.jpg">
-        <img src="assets/img/polka.jpg"/>
+    <a class="spotlight" href="/assets/img/polka.jpg">
+        <img src="/assets/img/polka.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/highschooldance.jpg">
-        <img src="assets/img/highschooldance.jpg"/>
+    <a class="spotlight" href="/assets/img/highschooldance.jpg">
+        <img src="/assets/img/highschooldance.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
 </div>
 
