@@ -24,7 +24,7 @@ The duel over the Waltz that started a movement against any "indecent" dancing a
         <img src="/assets/img/thornton.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
     <a class="spotlight" href="assets/img/waltz2.jpeg">
-        <img src="/assets/img/waltz.jpeg" class="img-fluid rounded z-depth-1 w-100" />
+        <img src="/assets/img/waltz2.jpeg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
     <a class="spotlight" href="assets/img/theodorehook.jpg">
         <img src="/assets/img/theodorehook.jpg" class="img-fluid rounded z-depth-1 w-100" />
@@ -51,7 +51,7 @@ Historical reactions and controversies surrounding dance. Some even leading to d
         <img src="/assets/img/fertilitydance.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
     <a class="spotlight" href="/assets/img/waltz3.jpg">
-        <img src="/assets/img/waltz2.jpg" class="img-fluid rounded z-depth-1 w-100" />
+        <img src="/assets/img/waltz3.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
 </div>
 
