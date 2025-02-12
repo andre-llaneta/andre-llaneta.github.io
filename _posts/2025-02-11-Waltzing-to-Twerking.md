@@ -72,7 +72,7 @@ From morals to health reasons, why did people hate the waltz?
 
 ---
 
-## [The Future of Dance?]()
+## [The Future of Dance?](https://nypost.com/2024/09/05/us-news/calif-principal-filmed-in-scandalous-dance-with-mascot-will-remain-at-school-in-different-role/)
 
 Why every new dance more scandalous than the last and why we cant stop it.
 
