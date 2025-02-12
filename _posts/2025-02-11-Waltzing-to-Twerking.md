@@ -36,7 +36,7 @@ The duel over the Waltz that started a movement against any "indecent" dancing a
 
 ---
 
-## The History of Dance
+## [The History of Dance](https://medium.com/@SkweiRd/the-subtext-manifesto-f56572b17c76)
 
 Historical reactions and controversies surrounding dance. Some even leading to death!
 
@@ -62,11 +62,14 @@ Historical reactions and controversies surrounding dance. Some even leading to d
 From morals to health reasons, why did people hate the waltz?
 
 <div class="spotlight-group">
-    <a class="spotlight" href="/assets/img/victoriawaltz.jpg">
-        <img src="/assets/img/victoriawaltz.jpg" class="img-fluid rounded z-depth-1 w-100" />
-    </a>
     <a class="spotlight" href="/assets/img/spinning.jpg">
         <img src="/assets/img/spinning.jpg" class="img-fluid rounded z-depth-1 w-100" />
+    </a>
+      <a class="spotlight" href="/assets/img/waltz4.jpg">
+        <img src="/assets/img/waltz4.jpg" class="img-fluid rounded z-depth-1 w-100" />
+    </a>
+      <a class="spotlight" href="/assets/img/victoriawaltz.jpg">
+        <img src="/assets/img/victoriawaltz.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
 </div>
 
