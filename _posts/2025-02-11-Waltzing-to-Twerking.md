@@ -23,8 +23,8 @@ The duel over the Waltz that started a movement against any "indecent" dancing a
     <a class="spotlight" href="assets/img/thornton.jpg">
         <img src="/assets/img/thornton.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
-    <a class="spotlight" href="assets/img/waltz2.jpeg">
-        <img src="/assets/img/waltz2.jpeg" class="img-fluid rounded z-depth-1 w-100" />
+    <a class="spotlight" href="assets/img/waltz2.jpg">
+        <img src="/assets/img/waltz2.jpg" class="img-fluid rounded z-depth-1 w-100" />
     </a>
     <a class="spotlight" href="assets/img/theodorehook.jpg">
         <img src="/assets/img/theodorehook.jpg" class="img-fluid rounded z-depth-1 w-100" />
