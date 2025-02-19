@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-waltzing-to-twerking-the-history-of-scandalous-dance",
+            },{id: "post-tang-dynasty-golden-or-not",
+      
+        title: "Tang Dynasty, Golden or not?",
+      
+      description: "Breaking down the Tang Dynasty and whether it is worthy of being called a Golden Age.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Tang-Dynasty-Golden-Age/";
+        
+      },
+    },{id: "post-waltzing-to-twerking-the-history-of-scandalous-dance",
       
         title: "Waltzing to Twerking, the History of Scandalous Dance",
       
