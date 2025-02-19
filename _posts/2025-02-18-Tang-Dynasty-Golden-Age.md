@@ -18,15 +18,15 @@ images:
 ---
 <!-- Background -->
 <h2>Background</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/suidynasty.png">
-        <img src="/assets/img/suidynasty.png" />
+        <img src="/assets/img/suidynasty.png" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/liyuan.jpg">
-        <img src="/assets/img/liyuan.jpg" />
+        <img src="/assets/img/liyuan.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/tangdynasty.png">
-        <img src="/assets/img/tangdynasty.png" />
+        <img src="/assets/img/tangdynasty.png" class="mx-2" />
     </a>
 </div>
 <ul>
@@ -36,12 +36,12 @@ images:
 ---
 <!-- Reforms -->
 <h2>Reforms</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/military.jpeg">
-        <img src="/assets/img/military.jpeg" />
+        <img src="/assets/img/military.jpeg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/confucian.jpg">
-        <img src="/assets/img/confucian.jpg" />
+        <img src="/assets/img/confucian.jpg" class="mx-2" />
     </a>
 </div>
 <ul>
@@ -52,15 +52,15 @@ images:
 ---
 <!-- Empress Wu -->
 <h2>Empress Wu</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/empresswu.jpg">
-        <img src="/assets/img/empresswu.jpg" />
+        <img src="/assets/img/empresswu.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/wubuddhism.jpg">
-        <img src="/assets/img/wubuddhism.jpg" />
+        <img src="/assets/img/wubuddhism.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/wuviolence.jpg">
-        <img src="/assets/img/wuviolence.jpg" />
+        <img src="/assets/img/wuviolence.jpg" class="mx-2" />
     </a>
 </div>
 <ul>
@@ -72,21 +72,21 @@ images:
 ---
 <!-- Emperor Xuanzong -->
 <h2>Emperor Xuanzong</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/xuanzong.jpg">
-        <img src="/assets/img/xuanzong.jpg" />
+        <img src="/assets/img/xuanzong.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/silkroad.jpg">
-        <img src="/assets/img/silkroad.jpg" />
+        <img src="/assets/img/silkroad.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/agriculture.jpg">
-        <img src="/assets/img/agriculture.jpg" />
+        <img src="/assets/img/agriculture.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/woodprinting.jpg">
-        <img src="/assets/img/woodprinting.jpg" />
+        <img src="/assets/img/woodprinting.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/art.jpg">
-        <img src="/assets/img/art.jpg" />
+        <img src="/assets/img/art.jpg" class="mx-2" />
     </a>
 </div>
 <div class="row mt-3">
@@ -103,9 +103,9 @@ images:
 ---
 <!-- An Lu Shan Rebellion -->
 <h2>An Lu Shan Rebellion</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/anlushan.jpg">
-        <img src="/assets/img/anlushan.jpg" />
+        <img src="/assets/img/anlushan.jpg" class="mx-2" />
     </a>
 </div>
 <ul>
@@ -115,12 +115,12 @@ images:
 ---
 <!-- Poetry and Printing -->
 <h2>Poetry and Printing</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/woodprinting.jpg">
-        <img src="/assets/img/woodprinting.jpg" />
+        <img src="/assets/img/woodprinting.jpg" class="mx-2" />
     </a>
     <a class="spotlight" href="/assets/img/poetry.jpg">
-        <img src="/assets/img/poetry.jpg" />
+        <img src="/assets/img/poetry.jpg" class="mx-2" />
     </a>
 </div>
 <ul>
@@ -131,14 +131,12 @@ images:
 ---
 <!-- Buddhism -->
 <h2>Buddhism</h2>
-<div class="spotlight-group">
+<div class="spotlight-group d-flex flex-wrap">
     <a class="spotlight" href="/assets/img/monastery.jpeg">
-        <img src="/assets/img/monastery.jpeg" />
+        <img src="/assets/img/monastery.jpeg" class="mx-2" />
     </a>
 </div>
 <ul>
     <li>Economic growth contributed to the spread of Buddhism, leading to an increase in monasteries.</li>
     <li>In 841 AD, the leadership cracked down on Buddhism, burning monasteries and forcing monks into secular life due to fears of Buddhist influence.</li>
 </ul>
-
-
