@@ -91,7 +91,7 @@ images:
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=YUBjuULvahs&list=PLm8mLM41EccCqytD8VuwCffd6cj_1NaX2" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/watch?v=YUBjuULvahs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <ul>
