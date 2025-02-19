@@ -93,7 +93,11 @@ images:
             <img src="/assets/img/art.jpg" />
         </a>
 </div>
-{% include video.liquid path="[https://www.youtube.com/embed/jNQXAC9IVRw](https://www.youtube.com/watch?v=YUBjuULvahs&list=PLm8mLM41EccCqytD8VuwCffd6cj_1NaX2)" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=YUBjuULvahs&list=PLm8mLM41EccCqytD8VuwCffd6cj_1NaX2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <ul>
     <li>Huge period of Economic Growth as he expanded Silk Road Trade</li>
     <li>Massive technological improvements due to focus on Agriculture, Taxation and Urbanization</li>
