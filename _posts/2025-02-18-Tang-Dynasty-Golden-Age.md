@@ -12,6 +12,8 @@ images:
 
 ## [The Tang Dynasty](https://www.britannica.com/topic/Tang-dynasty)
 
+
+---
 <!-- Background -->
 <h2>Background</h2>
 <div class="spotlight-gallery">
@@ -32,6 +34,8 @@ images:
     <li>Placeholder bullet point</li>
 </ul>
 
+---
+
 <!-- Reforms -->
 <h2>Reforms</h2>
 <div class="spotlight-gallery">
@@ -48,6 +52,8 @@ images:
     <li>Placeholder bullet point</li>
     <li>Placeholder bullet point</li>
 </ul>
+
+---
 
 <!-- Empress Wu -->
 <h2>Empress Wu</h2>
@@ -68,6 +74,8 @@ images:
     <li>Placeholder bullet point</li>
     <li>Placeholder bullet point</li>
 </ul>
+
+---
 
 <!-- Emperor Xuanzong -->
 <h2>Emperor Xuanzong</h2>
@@ -95,6 +103,8 @@ images:
     <li>Placeholder bullet point</li>
 </ul>
 
+---
+
 <!-- An Lu Shan Rebellion -->
 <h2>An Lu Shan Rebellion</h2>
 <div class="spotlight-gallery">
@@ -108,6 +118,8 @@ images:
     <li>Placeholder bullet point</li>
     <li>Placeholder bullet point</li>
 </ul>
+
+---
 
 <!-- Poetry and Printing -->
 <h2>Poetry and Printing</h2>
@@ -125,6 +137,8 @@ images:
     <li>Placeholder bullet point</li>
     <li>Placeholder bullet point</li>
 </ul>
+
+---
 
 <!-- Buddhism -->
 <h2>Buddhism</h2>
