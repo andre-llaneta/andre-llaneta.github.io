@@ -213,6 +213,7 @@ images:
         In 841 CE, the Tang leadership implemented a harsh crackdown on Buddhism, 
         destroying monasteries and forcing monks into secular life.
     </li>
+</ul>
 ---
 <!-- Technological Advancements -->
 <h2>Technological Advancements</h2>
