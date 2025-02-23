@@ -30,8 +30,19 @@ images:
     </a>
 </div>
 <ul>
-    <li>Tang Dynasty emerged after the Sui Dynasty which united China</li>
-    <li>Li Yuan seized power after the collapse of the Sui Dynasty</li>
+    <li>
+        Succeeded the short-lived Sui Dynasty (581–618 CE), which reunified China 
+        after centuries of division, laying the groundwork for the Tang’s long reign.
+    </li>
+    <li>
+        Li Yuan (later Emperor Gaozu) officially founded the Tang in 618 CE, seizing 
+        power amid mass rebellions and capitalizing on the Sui’s collapse.
+    </li>
+    <li>
+        Early Tang rulers sought to refine and expand upon Sui innovations, aiming 
+        to stabilize the empire and avoid repeating the Sui’s administrative 
+        overreach.
+    </li>
 </ul>
 ---
 <!-- Reforms -->
@@ -45,9 +56,21 @@ images:
     </a>
 </div>
 <ul>
-    <li>Li Yuan introduced critical reforms that strengthened the Tang Dynasty and may have contributed to its status as a Golden Age</li>
-    <li>Strengthened the Military</li>
-    <li>Expanded the Confucian Bureaucracy</li>
+    <li>
+        Under Li Yuan and Emperor Taizong, the military was significantly strengthened, 
+        leading to successful territorial expansions (campaigns in Mongolia and 
+        along the Silk Road).
+    </li>
+    <li>
+        Confucian bureaucracy was established, emphasizing merit-based 
+        appointments over nepotism, thereby creating a stable 
+        administrative system.
+    </li>
+    <li>
+        While these reforms contributed to a centralized government and bolstered the 
+        empire’s power, they also laid the groundwork for future challenges tied to 
+        military ambitions and concentrated authority.
+    </li>
 </ul>
 ---
 <!-- Empress Wu -->
@@ -64,10 +87,20 @@ images:
     </a>
 </div>
 <ul>
-    <li>China's first and only empress</li>
-    <li>Used Buddhism to justify her rule by saying the Buddha was reincarnated as a Woman</li>
-    <li>Was a great period of advancement for women's rights and well-being</li>
-    <li>However, was a great period of violence as Wu conducted many violent purges to stay in power</li>
+    <li>
+        The first and only female emperor in Chinese history (reigned 690–705 CE).
+    </li>
+    <li>
+        Employed Buddhism (claimed the Buddha reincarnated as a Woman) to justify her legitimacy, 
+        presenting herself as a prophesied ruler.
+    </li>
+    <li>
+        Elevated the status of women and competent officials, supporting education 
+        and laying progressive foundations.
+    </li>
+    <li>
+        Iamous for brutal purges against political adversaries making her criticized authoritarian methods.
+    </li>
 </ul>
 ---
 <!-- Emperor Xuanzong -->
@@ -95,10 +128,22 @@ images:
     </div>
 </div>
 <ul>
-    <li>Huge period of Economic Growth as he expanded Silk Road Trade</li>
-    <li>Massive technological improvements due to focus on Agriculture, Taxation, and Urbanization</li>
-    <li>Spreading of woodblock printing</li>
-    <li>Golden age for Chinese music, poetry, and art</li>
+    <li>
+        Oversaw a significant economic boom, fueled by the expansion of Silk Road trade 
+        and the influx of diverse goods and cultural influences.
+    </li>
+    <li>
+        Stimulated technological progress in agriculture, taxation systems, and urban 
+        development, enabling more efficient governance and resource management.
+    </li>
+    <li>
+        Encouraged the spread of woodblock printing, boosting literacy and contributing 
+        to a flourishing literary culture.
+    </li>
+    <li>
+        Ushered in the "High Tang" era which was a "golden age" for Ancient Chinese art and culture, 
+        the era was also known for rife corruption.
+    </li>
 </ul>
 ---
 <!-- An Lu Shan Rebellion -->
@@ -109,8 +154,17 @@ images:
     </a>
 </div>
 <ul>
-    <li>Exploited the corruption of the court and poor leadership</li>
-    <li>Period was rife with political instability and corruption</li>
+    <li>
+        Led by the general An Lushan in 755 CE, it capitalized on widespread court 
+        corruption and Emperor Xuanzong’s weakining political power.
+    </li>
+    <li>
+        The rebellion’s initial success signalled a deep fracture in the Tang regime.
+    </li>
+    <li>
+        Resulted in massive casualties and economic devastation, exposing the fragility 
+        of the so-called “Golden Age” and marking the beginning of the dynasty’s decline.
+    </li>
 </ul>
 ---
 <!-- Poetry and Printing -->
@@ -124,9 +178,19 @@ images:
     </a>
 </div>
 <ul>
-    <li>Woodblock printing became widespread</li>
-    <li>This, however, was outlawed as the Emperor wanted stricter control on the spread of information</li>
-    <li>Allowed for the spread of poetry</li>
+    <li>
+        Woodblock printing became increasingly common, allowing for faster distribution 
+        of texts and the expansion of literacy among the educated populace.
+    </li>
+    <li>
+        Legendary poets like Li Bai, Du Fu, and Wang Wei produced works that 
+        reflected the empire’s cultural brilliance and also critiqued political 
+        corruption and warfare.
+    </li>
+    <li>
+        Despite the cultural boom, private printing was eventually outlawed to maintain 
+        strict imperial control over information.
+    </li>
 </ul>
 ---
 <!-- Buddhism -->
@@ -137,6 +201,70 @@ images:
     </a>
 </div>
 <ul>
-    <li>The economic growth led to the spread of Buddhism from traders and led to increasing numbers of monasteries</li>
-    <li>In 841 AD the leadership cracked down on Buddhism, burning monasteries and forcing monks into secularism out of fear of Buddhist influence</li>
+    <li>
+        Economic prosperity and active trade routes spurred the spread of Buddhism, as 
+        traders and travelers established monasteries across the empire.
+    </li>
+    <li>
+        Monasteries grew into powerful institutions with vast wealth, which drew
+        suspicion and jealousy among Confucian officials.
+    </li>
+    <li>
+        In 841 CE, the Tang leadership implemented a harsh crackdown on Buddhism, 
+        destroying monasteries and forcing monks into secular life.
+    </li>
+</ul
+---
+<!-- Technological Advancements -->
+<h2>Technological Advancements</h2>
+<div class="spotlight-group">
+    <!-- Example images that might visually represent Tang-era technology -->
+    <a class="spotlight" href="/assets/img/gunpowder.jpg">
+        <img src="/assets/img/gunpowder.jpg" width="200" />
+    </a>
+    <a class="spotlight" href="/assets/img/porcelain.jpg">
+        <img src="/assets/img/porcelain.jpg" width="200" />
+    </a>
+    <a class="spotlight" href="/assets/img/advancements_farming.png">
+        <img src="/assets/img/advancements_farming.jpg" width="200" />
+    </a>
+    <a class="spotlight" href="/assets/img/medicine.jpg">
+        <img src="/assets/img/medicine.jpg" width="200" />
+    </a>
+    <!-- New image for air-conditioning / cooling technology -->
+    <a class="spotlight" href="/assets/img/airconditioning.jpg">
+        <img src="/assets/img/airconditioning.jpg" width="200" />
+    </a>
+</div>
+<ul>
+    <li>
+        <strong>Early Gunpowder Experiments:</strong>
+        Although gunpowder more known in the Song Dynasty, 
+        the earliest uses of gunpowder were recorded in the late Tang period, 
+        showcasing significant experimentation in alchemical sciences.
+    </li>
+    <li>
+        <strong>Refined Porcelain Production:</strong>
+        Tang artisans perfected ceramic making techniques, leading to innovations in glaze 
+        formulas and kiln technology. Their high-quality porcelain became highly prized 
+        both domestically and along the Silk Road.
+    </li>
+    <li>
+        <strong>Agricultural Advances:</strong>
+        The Tang state expanded canal networks and introduced higher yield grain varieties, 
+        greatly boosting harvests.
+    </li>
+    <li>
+        <strong>Medical Knowledge and Pharmacology:</strong>
+        Tang scholars compiled extensive medical treatises, refining herbal medicine and 
+        acupuncture.
+    </li>
+    <li>
+        <strong>Innovations in Cooling Technology:</strong>
+        Although rotary fans for air conditioning were first invented by Ding Huan 
+        (180CE) during the Han Dynasty, Emperor Xuanzong took this concept further 
+        in 747 by building a “Cool Hall” in the imperial palace. This hall 
+        featured water powered fan wheels and water jets from fountains.
+    </li>
 </ul>
+
