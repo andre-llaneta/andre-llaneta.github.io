@@ -168,7 +168,7 @@ images:
 </ul>
 ---
 <!-- Poetry and Printing -->
-<h2>Poetry and Printing</h2>
+<h2>[Poetry and Printing] (https://musicated.com/syh/TangPoems.htm)</h2>
 <div class="spotlight-group">
     <a class="spotlight" href="/assets/img/woodprinting.jpg">
         <img src="/assets/img/woodprinting.jpg" width="200" />
